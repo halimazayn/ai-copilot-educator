@@ -20,10 +20,10 @@ The main idea behind this project is to provide responses in the form of definit
 
 ##  Getting Started
 ### Installation
-Step 0 - Install Python 3.11 or later. see here  for a step-by-step guide.
+       Step 0 - Install Python 3.11 or later. see here  for a step-by-step guide.
          Step 1 - Download the project and navigate to its directory
-       ``` git clone https://github.com/assafelovic/gpt-researcher.git
-           cd Educopilot ```
+       git clone https://github.com/assafelovic/gpt-researcher.git
+           cd Educopilot 
 
        Step 3 - Install ollama loccaly and a model for it mistra 
        Step 4 – Create virtual env and activate it 
